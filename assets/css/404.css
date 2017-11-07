@@ -2938,7 +2938,7 @@
 
 		.photo {
 			background-image: url(../../images/henkka404.png);
-			background-size: 100%;
+			background-size: 600px;
 			background-repeat: no-repeat;
 			background-position: center;
 			background-clip: none;
@@ -2958,7 +2958,7 @@
 		}
 		
 		.photo:hover {
-			background-size: 500px;
+			background-size: 750px;
 		}
 
 			@media screen and (max-width: 980px) {
