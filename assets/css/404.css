@@ -2901,8 +2901,7 @@
 /* Header */
 
 	body {
-		background-color: #1e1f23;
-		padding-top: 8rem;
+		background-color: #ffffff;
 	}
 
 		body.is-loading:after {
@@ -2955,10 +2954,7 @@
 			overflow: hidden;
 			text-indent: 100%;
 			white-space:nowrap;
-		}
-		
-		.photo:hover {
-			background-size: 500px;
+
 		}
 
 			@media screen and (max-width: 980px) {
